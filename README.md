@@ -1,6 +1,6 @@
 # Unscripted
 
-Things happen in the world while you explore. A wolf pack chases a flock of sheep across a field, a wandering trader runs from pillagers, a horde of zombies marches toward a village at night, a tornado comes over the hill and does not stop following you. You can step in or keep walking, and what you do changes how it ends.
+Things happen in the world while you explore. A wolf pack chases a flock of sheep across a field, foxes, wolves or zombies come to pick at the remains of dead animals, a wandering trader runs from pillagers, a horde of zombies marches toward a village at night, a dust devil spins around you on a dry day, a tornado comes over the hill and does not stop following you. You can step in or keep walking, and what you do changes how it ends.
 
 A director picks what happens, where and when, based on the time, the weather, the biome, what is around you and what happened there before. Everything uses vanilla mobs, blocks, particles and sounds.
 
@@ -47,7 +47,7 @@ All rights reserved, with permissions: you can play it, run it on any server, in
 
 # Unscripted (español)
 
-Mientras exploras, el mundo hace cosas. Una manada de lobos persigue un rebaño de ovejas por el campo, un comerciante ambulante huye de unos saqueadores, una horda de zombies marcha de noche hacia una aldea, un tornado aparece detrás de la colina y no deja de seguirte. Puedes meterte o seguir de largo, y lo que hagas cambia cómo termina.
+Mientras exploras, el mundo hace cosas. Una manada de lobos persigue un rebaño de ovejas por el campo, zorros, lobos o zombies llegan a los restos de animales muertos, un comerciante ambulante huye de unos saqueadores, una horda de zombies marcha de noche hacia una aldea, un remolino da vueltas a tu alrededor en un día seco, un tornado aparece detrás de la colina y no deja de seguirte. Puedes meterte o seguir de largo, y lo que hagas cambia cómo termina.
 
 Un director decide qué pasa, dónde y cuándo, según la hora, el clima, el bioma, lo que hay alrededor y lo que pasó antes en ese lugar. Todo con mobs, bloques, partículas y sonidos vanilla.
 
