@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="unscripted.png"
+logoBlur=false
+authors="${mod_authors}"
+# Solo de servidor: los clientes entran sin tenerlo.
+displayTest="IGNORE_SERVER_VERSION"
+description='''
+Emergent scenes with vanilla mobs that you run into while exploring: wolves hunting sheep, scavengers, a trader under attack, a wandering horde, dust devils and tornadoes. Server-side only: players join with an unmodded client.
+'''
+
+[[mixins]]
+config="unscripted.mixins.json"
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
